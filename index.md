@@ -555,7 +555,6 @@ Each hint is hidden behind a spoiler box, so you can choose to keep uncovering t
 ![divider](/assets/images/divider2.png)
 
 ## <a name="page_16" class="page-number">Puzzle Book Ending</a>
-<br>
 <details>
 <summary><b>When the puzzle book is completed...</b></summary>
 <p>Once you've read section 114.1: <span class="hidden">The cipher at the end of this section is not intended to be solvable using the materials in this game. Play Frosthaven to find out more!</span></p>

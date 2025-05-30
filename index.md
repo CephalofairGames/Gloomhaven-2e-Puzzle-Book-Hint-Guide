@@ -6,7 +6,7 @@
 
 <a href="#page_01">0 General Notes</a>
 
-1.  <a href="#page_03">Puzzle 1 (Page 3)</a>
+1.aw  <a href="#page_03">Puzzle 1 (Page 3)</a>
 1. <a href="#page_04">Puzzle 2 (Pages 4-5)</a>
 1. <a href="#page_06">Puzzle 3 (Pages 6-7)</a>
 1. <a href="#page_08a">Puzzle 4 (Page 8 top)</a>
@@ -86,7 +86,7 @@ Each hint is hidden behind a spoiler box, so you can choose to keep uncovering t
 <br>
  
  
-![divider](/assets/images/divider.png)
+![divider](/assets/images/divider2.png)
 
 ## <a name="page_04" class="page-number">Puzzle 2 (Pages 4-5)</a>
 
@@ -135,6 +135,8 @@ Each hint is hidden behind a spoiler box, so you can choose to keep uncovering t
 
 </details>
 <br>
+
+![divider](/assets/images/divider2.png)
  
  ## <a name="page_06" class="page-number">Puzzle 3 (Pages 6-7)</a>
 
@@ -187,6 +189,8 @@ Each hint is hidden behind a spoiler box, so you can choose to keep uncovering t
 
 </details>
 <br>
+
+![divider](/assets/images/divider2.png)
  
 ## <a name="page_08a" class="page-number">Puzzle 4 (Page 8 top)</a>
 
@@ -231,6 +235,8 @@ Each hint is hidden behind a spoiler box, so you can choose to keep uncovering t
 
 </details>
 <br>
+
+![divider](/assets/images/divider2.png)
  
 ## <a name="page_08b" class="page-number">Puzzle 5 (Page 8 bottom)</a>
 
@@ -263,6 +269,8 @@ Each hint is hidden behind a spoiler box, so you can choose to keep uncovering t
 
 </details>
 <br>
+
+![divider](/assets/images/divider2.png)
 
 ## <a name="page_09a" class="page-number">Puzzle 6 (Page 9 top)</a>
 
@@ -304,6 +312,8 @@ Each hint is hidden behind a spoiler box, so you can choose to keep uncovering t
 </details>
 <br>
 
+![divider](/assets/images/divider2.png)
+
 ## <a name="page_09b" class="page-number">Puzzle 7 (Page 9 bottom)</a>
 
 <details>
@@ -337,6 +347,8 @@ Each hint is hidden behind a spoiler box, so you can choose to keep uncovering t
 
 </details>
 <br>
+
+![divider](/assets/images/divider2.png)
 
 ## <a name="page_10" class="page-number">Puzzle 8 (Page 10)</a>
 
@@ -375,6 +387,8 @@ Each hint is hidden behind a spoiler box, so you can choose to keep uncovering t
 
 </details>
 <br>
+
+![divider](/assets/images/divider2.png)
 
 ## <a name="page_11" class="page-number">Puzzle 9 (Page 11)</a>
 
@@ -426,6 +440,8 @@ Each hint is hidden behind a spoiler box, so you can choose to keep uncovering t
 </details>
 <br>
 
+![divider](/assets/images/divider2.png)
+
 ## <a name="page_12" class="page-number">Puzzle 10 (Pages 12-13)</a>
 
 <details>
@@ -453,6 +469,8 @@ Each hint is hidden behind a spoiler box, so you can choose to keep uncovering t
 
 </details>
 <br>
+
+![divider](/assets/images/divider2.png)
  
 ## <a name="page_14" class="page-number">Puzzle 11 (Pages 14-15)</a>
 
@@ -534,9 +552,14 @@ Each hint is hidden behind a spoiler box, so you can choose to keep uncovering t
 </details>
 <br>
 
-## <a name="page_16" class="page-number">Puzzle Book Ending</a>
+![divider](/assets/images/divider2.png)
 
-Once you've read section 114.1: <span class="hidden">The cipher at the end of this section is not intended to be solvable using the materials in this game. Play Frosthaven to find out more!</span>
+## <a name="page_16" class="page-number">Puzzle Book Ending</a>
+<br>
+<details>
+<summary><b>When the puzzle book is completed...</b></summary>
+<p>Once you've read section 114.1: <span class="hidden">The cipher at the end of this section is not intended to be solvable using the materials in this game. Play Frosthaven to find out more!</span></p>
+</details>
 
 
 

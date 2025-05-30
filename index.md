@@ -6,7 +6,7 @@
 
 <a href="#page_01">0 General Notes</a>
 
-1.aw  <a href="#page_03">Puzzle 1 (Page 3)</a>
+1. <a href="#page_03">Puzzle 1 (Page 3)</a>
 1. <a href="#page_04">Puzzle 2 (Pages 4-5)</a>
 1. <a href="#page_06">Puzzle 3 (Pages 6-7)</a>
 1. <a href="#page_08a">Puzzle 4 (Page 8 top)</a>

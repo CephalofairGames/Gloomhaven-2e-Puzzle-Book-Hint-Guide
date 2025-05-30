@@ -1,4 +1,4 @@
-# gloomhaven2e-faq
+# Gloomhaven: Second Edition Puzzle Book Hint Guide
 
 This is the Official Puzzle Book Hint Guide for Gloomhaven: Second Edition. It was written by Dennis Vogele and is maintained by William Wilson (dwarf74). 
 

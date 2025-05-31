@@ -4,7 +4,7 @@
 
 *Last Updated 2025-05-23*
 
-<a href="#page_01">0 General Notes</a>
+<a href="#page_01">0. General Notes</a>
 
 1. <a href="#page_03">Puzzle 1 (Page 3)</a>
 1. <a href="#page_04">Puzzle 2 (Pages 4-5)</a>

@@ -138,7 +138,7 @@ Each hint is hidden behind a spoiler box, so you can choose to keep uncovering t
 
 ![divider](/assets/images/divider2.png)
  
- ## <a name="page_06" class="page-number">Puzzle 3 (Pages 6-7)</a>
+## <a name="page_06" class="page-number">Puzzle 3 (Pages 6-7)</a>
 
 <details>
 <summary><b>Puzzle 3 Overview</b></summary>

@@ -2,7 +2,7 @@
 
 # **Gloomhaven: Second Edition Puzzle Book Hint Guide**
 
-*Last Updated 2025-05-30*
+*Last Updated 2025-07-08*
 
 <a href="#page_01">0. General Information</a>
 
@@ -70,13 +70,13 @@ Each hint is hidden behind a spoiler box, so you can choose to keep uncovering t
 
 <p><b>Hint 3c </b> <span class="hidden">What does the plaque teach me?</span> <span class="hidden">The letters A, B, C, E, F, G, L, and N in the ancient language</span></p>
 
-<p><b>Hint 4a </b> <span class="hidden">How do you translate the note using the letters and numbers you already know?</span> <span class="hidden">Replace the known letters with their English equivalent: BEG-N A- 5. F----, ---N --E --AL -L------E 23. NE--, ---E ---N-E- 17.</span></p>
+<p><b>Hint 4a </b> <span class="hidden">How do you translate the note using the letters and numbers you already know?</span> <span class="hidden">Replace the known letters with their English equivalent: BEG-N A- 5. F----, ---N --E --AL CL-C----E 23. NE--, ---E C--N-E- 17.</span></p>
 
-<p><b>Hint 4b </b> <span class="hidden">Which words do I guess first?</span> <span class="hidden">BEGIN and AT. Putting I and T in we get: BEGIN AT 5. FI--T, T--N T-E -IAL -L----I-E 23. NE-T, ---E ---NTE- 17.</span></p>
+<p><b>Hint 4b </b> <span class="hidden">Which words do I guess first?</span> <span class="hidden">BEGIN and AT. Putting I and T in we get: BEGIN AT 5. FI--T, --IN T-E -IAL -L----I-E 23. NE-T, ---E ---NTE- 17.</span></p>
 
-<p><b>Hint 4c </b> <span class="hidden">Which words do I guess next?</span> <span class="hidden">FIRST, THE, DIAL, NEXT. Putting R, S, H, D, and X in we get: BEGIN AT 5. FIRST, T-RN THE DIAL -L----ISE 23. NEXT, ---E ---NTER 17</span></p>
+<p><b>Hint 4c </b> <span class="hidden">Which words do I guess next?</span> <span class="hidden">FIRST, THE, DIAL, NEXT. Putting R, S, H, D, and X in we get: BEGIN AT 5. FIRST, S-IN THE DIAL CL-C--ISE 23. NEXT, ---E C--NTER 17.</span></p>
 
-<p><b>Hint 4d </b> <span class="hidden">What are the remaining words?</span> <span class="hidden">Based on the sentence structure, we can guess the rest: BEGIN AT 5. FIRST, TURN THE DIAL CLOCKWISE 23. NEXT, MOVE COUNTER 17.</span></p>
+<p><b>Hint 4d </b> <span class="hidden">What are the remaining words?</span> <span class="hidden">Based on the sentence structure, we can guess the rest: BEGIN AT 5. FIRST, SPIN THE DIAL CLOCKWISE 23. NEXT, MOVE COUNTER 17.</span></p>
 
 <p><b>Method: A full explanation of how to solve this puzzle </b> <span class="hidden">Using the letters of Fennec Baggle’s name, and the numbers on the dial, translate the note. Then follow the instructions on the note, writing down each number you stop at. Note that the dial only has 9 digits, not 10, so count carefully.</span></p>
 

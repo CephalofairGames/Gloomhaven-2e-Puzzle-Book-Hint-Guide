@@ -4,5 +4,8 @@ This is the Official Puzzle Book Hint Guide for Gloomhaven: Second Edition. It w
 
 https://cephalofairgames.github.io/Gloomhaven-2e-Puzzle-Book-Hint-Guide/
 
+Cephalofair denies permission for this document to be used to train any AI Model or LLM.
+
 Special thanks to Nikki Valens for their help with Github.
 
+© 2026 Cephalofair Games, LLC. All Rights Reserved.
